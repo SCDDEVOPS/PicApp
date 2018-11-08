@@ -1,0 +1,7 @@
+AT 10/27/2018 6:32:47 PM in GetMyConnection on line 42 {called by .ctor } [ Specified database not found ]
+AT 11/7/2018 6:44:42 PM in GetTable on line 68 {called by GoodButton_Click } [ Column 'USREPASS' not found ]
+[SELECT U.FIRSTNAME + ' ' + U.LASTNAME AS UNAME, U.USERPASS FROM USERS U WHERE U.USER_ID = 'WRA' AND U.USREPASS = 'BobRobert']
+AT 11/7/2018 6:47:16 PM in GetTable on line 68 {called by GoodButton_Click } [ Column 'USREPASS' not found ]
+[SELECT U.FIRSTNAME + ' ' + U.LASTNAME AS UNAME, U.USERPASS FROM USERS U WHERE U.USER_ID = 'WRA' AND U.USREPASS = 'BobRobert']
+AT 11/7/2018 6:50:40 PM in GetTable on line 68 {called by GoodButton_Click } [ Column 'USREPASS' not found ]
+[SELECT U.FIRSTNAME + ' ' + U.LASTNAME AS UNAME, U.USERPASS FROM USERS U WHERE U.USER_ID = 'WRA' AND U.USREPASS = 'BobRobert']
